@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**CxA2003/CxA2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cesar Fernandez, a 19-years-old Computer Science major 💻🗒️✏️
 
-Here are some ideas to get you started:
+Currently making different projects you might see on my Repositories section.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the moment I have knowledge on the following topics:
+```
+  1. HTML, JavaScript and CSS for Frontend Developpment
+  2. OOP in Javascript, PHP, Java SE
+  3. Git and Github version managment for different projects
+  4. Python, C#, PHP and Golang general programming
+  5. Unity and Unreal Engine4 Game Development (Currently working on a Unity Mobile Game)
+```
+
+You can also check my Diplomas on the Platzi Academy: https://platzi.com/p/cfern381/
+
