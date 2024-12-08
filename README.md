@@ -1,22 +1,23 @@
 <div align="center">
   <h1>Cesar Fernandez</h1>
-  <p>Dedicated Data Scientist with a deep passion for uncovering insights through data, based in Miami, Florida.</p>
-  <p>As an alumni of General Assembly's Data Science program, I specialize in machine learning, statistical analysis, and data visualization.</p>
+  <h3>Dedicated Data Scientist with a deep passion for uncovering insights through data, based in Miami, Florida.</p>
+  <h5>As an alumni of Platzi and General Assembly's Data Science programs, I specialize in machine learning, statistical analysis, and data visualization.</p>
   <p>Transforming complex datasets into actionable insights, using tools like Python, R, and Tableau to drive data-driven decision-making!</p>
 </div>
 
 <div align="center">
   <h1>Skills</h1>
   <h3>Core</h3>
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Icon" style="width: 3rem; height:auto;"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python Icon" style="width: 3rem; height:auto;"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Icon" style="width: 3rem; height:auto;"/></a>
-  <a href="https://www.r-project.org/about.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R Icon" style="width: 3rem; height:auto;"/></a>
-  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/programming-language-flask-icon-2048x1826-wf5k5ugs.png" alt="Flask Icon" style="width: 3rem; height:auto;"/></a>
-  <a href="https://docs.streamlit.io/" target="_blank"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit Icon" style="width: 3rem; height:auto;"/></a>
-  <a href="https://docs.conda.io/en/latest/" target="_blank"><img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="Conda Icon" style="width: 3rem; height:auto;"/></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Icon" style="width: 3rem; height:3rem;"/></a>
+  <a href="https://go.dev/doc/" target="_blank"><img src="https://www.svgrepo.com/show/373635/go-gopher.svg" alt="Git Icon" style="width: 3rem; height:3rem;"/></a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=FFFFFF" alt="Flask Icon" style="width: 3rem; height:3rem;"/></a>
+  <a href="https://docs.streamlit.io/" target="_blank"><img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit Icon" style="width: 3rem; height:3rem;"/></a>
+  <a href="https://docs.conda.io/en/latest/" target="_blank"><img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" alt="Conda Icon" style="width: 3rem; height:3rem;"/></a>
+  <a href="https://www.oracle.com/virtualization/virtualbox/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" alt="Conda Icon" style="width: 5rem; height:auto;"/></a>
   
-  <h3>Data Science</h3>
+  <h3>Data</h3>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python Icon" style="width: 3rem; height:auto;"/></a>
+  <a href="https://www.r-project.org/about.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" alt="R Icon" style="width: 3rem; height:auto;"/></a>
   <a href="https://matplotlib.org/stable/index.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib Icon" style="width: 3rem; height:auto;"/></a>
   <a href="https://numpy.org/doc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy Icon" style="width: 3rem; height:auto;"/></a>
   <a href="https://scikit-learn.org/stable/user_guide.html" target="_blank"><img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Scikit-Learn Icon" style="width: 3rem; height:auto;"/></a>
@@ -36,13 +37,21 @@
   <h3>Web Development</h3>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="HTML5 Icon" style="width: 3rem; height:auto;"/></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="CSS3 Icon" style="width: 3rem; height:auto;"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Icon" style="width: 3rem; height:auto;"/></a>
+  <a href="https://react.dev/learn" target="_blank"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25085005/reactjs-inner.svg" alt="PHP Icon" style="width: 3rem; height:auto;"/></a>
   <a href="https://www.php.net/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" alt="PHP Icon" style="width: 3rem; height:auto;"/></a>
+  
 </div>
 
 <div align="center">
   <h1>Socials</h1>
   <a href="https://www.linkedin.com/in/cesar-fernandez101103/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Icon" style="width: 3rem; height:auto;"/></a>
-  <a href="https://www.instagram.com/cxa2003/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram Icon" style="width: 3rem; height:auto;"/></a>
+  <a href="https://stackoverflow.com/users/26398796/cesar-f" target="_blank"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded" alt="Instagram Icon" style="width: 3rem; height:auto;"/></a>
+  <a href="https://leetcode.com/u/CxA2003/" target="_blank"><img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo_rvs.png" alt="Instagram Icon" style="width: 3rem; height:auto;"/></a>
+  <a href="https://www.hackerrank.com/profile/cfpcreator1" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="Instagram Icon" style="width: 3rem; height:auto;"/></a>
+  
   <br>
+  
   <p>For a better and more professional interaction, please contact me via <a href="mailto:cesarfp2020@gmail.com">cesarfp2020@gmail.com</a></p>
+  <p>or schedule a meeting <a href="https://calendly.com/cesarfp2020/30min" target="_blank">HERE</a></p>
 </div>
