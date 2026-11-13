@@ -1,119 +1,96 @@
 <div align="center">
 
-# 👋 Hi, I'm **Cesar Fernandez**
-### **Data Analyst & Web Developer | Machine Learning | Analytics Engineering**
-Miami, FL • Open to Data Science, Data Analyst, and Data Engineering roles
+# Cesar Fernandez
 
----
+### Data & Strategy Analyst · Full-Stack Developer
 
-I specialize in transforming complex datasets into meaningful insights and building analytics tools that support
-real-world operational decisions. My work spans **machine learning, ETL pipeline development, forecasting,
-SQL-based analytics, and full-stack applications**.
+**Turning data into decisions and ideas into useful digital experiences.**
 
-Currently, I work as a **Data & Strategy Intern at Lucet**, where I improve data pipelines, automate processes,
-and build tools that influence staffing, geographic coverage, and clinical/operational reporting.
+Lima, Peru · Open to remote opportunities
 
-🎓 **General Assembly (Data Science Immersive)** • Google Data Analytics (2025)  
-📚 Future: MIT Professional Education – Applied AI & Data Science (2026)
+[LinkedIn](https://www.linkedin.com/in/cesar-a-fernandez/) · [Portfolio](https://cesarfp.netlify.app/) · [Email](mailto:cesarfp2020@gmail.com)
 
 </div>
 
 ---
 
-## 🔍 What I Do
-- Build **forecasting models**, operational dashboards, and analytics pipelines  
-- Improve ETL workflows using **Python, SQL, GIS data, and automation tools**  
-- Conduct deep **exploratory data analysis (EDA)** to guide business decisions  
-- Develop clean, intuitive applications using **Streamlit, JavaScript, React, and PHP**  
-- Work with **clinical, geographic, and image datasets** across healthcare and research projects  
+## About me
+
+I work across data, software, and business needs: exploring and preparing data, building analytics workflows, and creating web applications that make information easier to use. My background includes healthcare analytics, full-stack development, and data science training. I am currently pursuing a computer science degree.
+
+I enjoy understanding the problem behind a request, communicating findings clearly, and continuing to learn through practical projects.
+
+## Areas of focus
+
+| Area | What I work with |
+| :--- | :--- |
+| **Data analysis** | Data cleaning, exploratory analysis, statistical thinking, reporting, visualization and communicating findings |
+| **Data engineering** | ETL workflows, SQL, relational databases, data quality and automation |
+| **Machine learning** | Feature engineering, regression, classification, model evaluation and computer vision |
+| **Web development** | Responsive interfaces, reusable components, APIs, frontend and backend development |
+
+## Tools & technologies
+
+### Languages and web
+Python · SQL · R · JavaScript · HTML · CSS · PHP  
+React · Node.js · Tailwind CSS · Bootstrap · Vite · Streamlit
+
+### Data analysis and visualization
+Excel · pandas · NumPy · Matplotlib · Seaborn · Tableau · Power BI  
+Jupyter · Google Colab · dplyr · ggplot2
+
+### Machine learning
+scikit-learn · TensorFlow · Keras · PyTorch · VGG16  
+Exploratory analysis · Feature engineering · Regression · Classification · Model evaluation
+
+### Data platforms and databases
+PostgreSQL · MySQL · MongoDB · BigQuery · PySpark · Databricks  
+ETL · Data preparation · Data validation · APIs
+
+### Development and cloud
+Git · GitHub · Docker · AWS · Netlify · Postman · VS Code · Linux · Bash · Conda · npm
+
+*These are tools and topics represented in my projects, training, and professional materials. Their context and depth vary across professional work, academic projects, and continued learning.*
+
+## Selected projects
+
+### [Weapon Identifier](https://github.com/CxA2003/weapon-identification)
+An educational image-classification project using a VGG16-based model and a Streamlit interface. The repository includes notebooks, application code, and documentation of the dataset and approach.
+
+**Python · TensorFlow · VGG16 · Streamlit · Jupyter**
+
+### [Random Quotes](https://github.com/CxA2003/random-quotes)
+A responsive quote generator created as part of freeCodeCamp learning projects.
+
+**JavaScript · HTML · CSS**
+
+### [Pyculator](https://github.com/CxA2003/Pyculator)
+A Python calculator for arithmetic and other mathematical operations.
+
+**Python**
+
+## Experience & education
+
+**AI Lead · CA Solutions** — February 2026–present  
+**Data & Strategy Intern · Lucet** — September 2025–February 2026  
+**Web Developer · CA Investments** — January 2024–June 2025  
+**Data Science Fellow · General Assembly** — May 2024–June 2025  
+**B.S. in Computer Science** — in progress
+
+## Certifications & training
+
+- **CAP Essentials** — INFORMS
+- **Google Data Analytics Professional Certificate** — Google / Coursera
+- **JavaScript Algorithms and Data Structures** — [freeCodeCamp credential](https://www.freecodecamp.org/certification/CxA2003/javascript-algorithms-and-data-structures-v8)
+- **Responsive Web Design** — [freeCodeCamp credential](https://www.freecodecamp.org/certification/CxA2003/responsive-web-design)
+- **AWS Cloud Practitioner Essentials** — AWS training
+- **Data Science Bootcamp** — General Assembly
 
 ---
 
-## 🧠 Technical Skills
-
-### **Languages**
-`Python` • `R` • `SQL` • `JavaScript`  
-
-### **Machine Learning & AI**
-`Scikit-Learn` • `TensorFlow` • `PyTorch` • `Feature Engineering` • `Model Optimization`  
-
-### **Data Analytics & EDA**
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Tableau`  
-`ZIP-Code-Level Analyses` • `Forecasting Models`  
-
-### **Data Engineering & Databases**
-`MySQL` • `PostgreSQL` • `Athenahealth EHR` • `ETL Pipelines`  
-`Data Cleaning` • `Automation` • `Data Wrangling`  
-
-### **Cloud, Tools & DevOps**
-`Docker` • `AWS EC2 / Cloud9` • `Git` • `Conda` • `Jupyter`  
-
-### **Web Development**
-`HTML` • `CSS` • `JavaScript` • `PHP` • `React.js` • `Node.js` • `Streamlit`
-
----
-
-## 🚀 Featured Projects
-
-### **🔬 Lumbar Spine Degeneration Classifier (RSNA 2024)**
-**Python, NumPy, Pandas**  
-- Built a predictive model for MRI-based spinal degeneration classification  
-- Performed advanced EDA, imputation, and anomaly detection  
-- Produced a clean dataset for training and improved diagnostic accuracy  
-- Contributed to team improvements and higher Kaggle ranking  
-
----
-
-### **🍄 Poisonous Mushroom Classification Model**
-**Python, Pandas, Scikit-Learn, Matplotlib**  
-- Built multiple models (RF, Logistic Regression, KNN)  
-- Conducted EDA to uncover high-signal features  
-- Performed hyperparameter tuning and cross-validation  
-- Achieved high model accuracy and exported predictions for further analysis  
-
----
-
-### **🔫 Firearm Detection App (Streamlit + CNN)**
-**Python, TensorFlow, PyTorch, Streamlit, OpenImages API**  
-- Designed a custom CNN for firearm detection in uploaded images  
-- Built a user-friendly Streamlit interface with real-time inference  
-- Pulled large training datasets via OpenImages API  
-- Deployed publicly on GitHub for others to clone and extend  
-
----
-
-## 🏢 Experience
-
-### **Data & Strategy Intern – Lucet (2025–Present)**  
-- Reduced forecasting lead times by **50%**, improving revenue protection and staffing efficiency  
-- Improved ETL pipelines across spreadsheets, relational databases, and GIS inputs,  
-  cutting processing time from **4 hours → 1 hour**  
-- Integrated Python + SQL analytics into **Athenahealth EHR** workflows  
-- Conducted ZIP-code-level supply/demand analysis for staffing and expansion  
-- Automated workflows using Python, AI tools, and cloud services (Docker, AWS EC2 Cloud9)
-
----
-
-### **Web Developer – CA Investments (2024–2025)**  
-- Built a responsive platform using PHP, JavaScript, and MySQL  
-- Increased user engagement by **25%**  
-- Optimized database queries → **30% faster load time**
-
-### **Web Developer – Libertium Medical (2022–2023)**  
-- Increased site traffic by **40%** with SEO and UX improvements  
-- Ensured WCAG 2.1 accessibility compliance  
-
----
-
-## 🌐 Connect With Me
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/cesar-a-fernandez/) • 
-[GitHub](https://github.com/CxA2003) • 
-[LeetCode](https://leetcode.com/u/CxA2003/) • 
-[HackerRank](https://www.hackerrank.com/profile/cfpcreator1)
-
-📧 **cesarfp2020@gmail.com**  
-📅 Schedule a meeting: **https://calendly.com/cesarfp2020/30min**
+**Let's connect.**  
+[LinkedIn](https://www.linkedin.com/in/cesar-a-fernandez/) · [Portfolio](https://cesarfp.netlify.app/) · [GitHub](https://github.com/CxA2003)
 
 </div>
